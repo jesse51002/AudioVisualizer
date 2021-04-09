@@ -1,5 +1,5 @@
-var w = 0//1600/2;
-var h = 0//900/2;
+var w = 0;
+var h = 0;
 
 const FOG = true;
 const OUTLINE = true;
