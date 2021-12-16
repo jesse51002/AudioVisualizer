@@ -4,6 +4,8 @@ An audio visualizer made using p5js
 
 > Creates a revolving outline of the given image with a revolution speed that's connected to the bass level of the music
 
+> Changes the size of the revolving outline with the bass level of the music
+
 > Changes the size of the given image with the bass level of the music
 
 > Feature to enable fog that moves with the amount of bass in the music
